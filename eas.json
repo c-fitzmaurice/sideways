@@ -1,0 +1,13 @@
+{
+  "build": {
+    "development": {
+      "developmentClient": true,
+      "ios": {
+        "simulator": true
+      }
+    }
+  },
+  "cli": {
+    "version": ">= 0.38.3"
+  }
+}
